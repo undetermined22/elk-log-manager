@@ -1,0 +1,7 @@
+.env
+filebeat/ingest_data/*
+!filebeat/ingest_data/.gitkeep
+filebeat/filebeat.yml
+logstash/ingest_data/*
+!logstash/ingest_data/.gitkeep
+logstash/logstash.conf
